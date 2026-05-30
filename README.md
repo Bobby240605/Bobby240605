@@ -29,11 +29,11 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
-<a href="mailto:bobbyurade24@gmail.com">
+<a href="emailto:bobbyurade24@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://leetcode.com/your_leetcode_username/" target="_blank">
+<a href="https://(https://leetcode.com/u/BobbyUrade/)/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
