@@ -30,7 +30,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/bobby-urade-046b92380">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:bobbyurade24@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
@@ -95,11 +95,4 @@
 - Secure a Front-End Developer role
 - Continuously improve coding skills
 
-## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/bobby-urade
-- GitHub: github.com/Bobby240605
-
----
-
-⭐ "Every expert was once a beginner. Keep learning, keep building."
