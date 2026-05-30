@@ -17,16 +17,7 @@
 - Open Source Contribution
 - Modern Web Technologies
 
-## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Bootstrap
-- Git
-- GitHub
-- 
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -41,7 +32,20 @@
 <a href="mailto:bobbyurade24@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
+
+<a href="https://leetcode.com/your_leetcode_username/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/your_hackerrank_username" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
+  <a href="https://www.codolio.com/profile/your_codolio_username" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
