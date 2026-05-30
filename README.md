@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
-  <a href="https://www.hackerrank.com/your_hackerrank_username" target="_blank">
+  <a href="https://www.hackerrank.com/profile/bobbyurade24" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 
