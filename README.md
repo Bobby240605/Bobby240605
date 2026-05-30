@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://(https://leetcode.com/u/BobbyUrade/)" target="_blank">
+<a href="https://leetcode.com/u/BobbyUrade/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
