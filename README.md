@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Bobby Urade
 
-<!--
-**Bobby240605/Bobby240605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Developer | Web Development Enthusiast | Lifelong Learner
 
-Here are some ideas to get you started:
+💻 Passionate about creating responsive and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Git & GitHub
+
+🚀 Interested in:
+- Front-End Development
+- UI/UX Design
+- Open Source Contribution
+- Modern Web Technologies
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Bootstrap
+- Git
+- GitHub
+
+## 📂 Projects
+
+🔹 Smart Traffic Light System  
+🔹 Personal Portfolio Website  
+🔹 Responsive Landing Pages  
+🔹 Front-End Development Projects
+
+## 📈 Goals
+
+- Build real-world web applications
+- Contribute to open-source projects
+- Secure a Front-End Developer role
+- Continuously improve coding skills
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/bobby-urade
+- GitHub: github.com/Bobby240605
+
+---
+
+⭐ "Every expert was once a beginner. Keep learning, keep building."
